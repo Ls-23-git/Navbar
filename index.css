@@ -1,6 +1,25 @@
-.heading{
-    margin: 20vh 10%;
+nav {
+  background-color: rgb(189, 34, 34) !important;
 }
-.heading span{
-    color: purple;
+.heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  width: 100vw;
+  background-color: rgb(177, 177, 177);
+}
+.heading span {
+  color: rgb(173, 0, 173);
+}
+.licon {
+  height: 2.5rem;
+}
+.me-5 span {
+  color: black;
+  margin-right: 1rem;
+  font-size: 1.5rem;
+}
+footer {
+  background-color: rgb(185, 42, 42) !important;
 }
